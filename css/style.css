@@ -294,7 +294,8 @@ em {
 /*Aboutme*/
 
 .student-me {
-    min-height: 100px;
+    min-height: auto;
+    padding: 0;
     display: flex;
     flex-direction: column;
     font-family: 'Roboto';
